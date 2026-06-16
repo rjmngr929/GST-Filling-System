@@ -35,15 +35,17 @@ Push notifications & in-app alerts for deadlines, payment confirmations, and reg
 Export reports (PDF/CSV) and share via email.
 
 Modular, testable architecture for future feature additions.
-          <h5 class="mb-3">Project Images :</h5>
-          <img src="https://github.com/rjmngr929/Mlevy/assets/170399926/43ca3c59-5b2d-4ddf-8a10-df97048ab5ed" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
-          <img src="https://github.com/rjmngr929/Mlevy/assets/170399926/c28f1b96-c9ad-4504-bb2f-16114b78658f" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
-          <img src="https://github.com/rjmngr929/Mlevy/assets/170399926/a9354cce-9a0a-45f3-8028-21327cd468ef" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
-          <img src="https://github.com/rjmngr929/Mlevy/assets/170399926/6e8c2c51-e737-4a33-a474-ef98b1daa4c4" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
-          <img src="https://github.com/rjmngr929/Mlevy/assets/170399926/f18fc138-8663-4539-ad88-8f6756c0f1ca" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
-          <img src="https://github.com/rjmngr929/Mlevy/assets/170399926/96b022dc-5dc5-468c-a0cc-d7f9da68dd4d" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
-     
 
+## Project Images
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+<img src="https://raw.githubusercontent.com/rjmngr929/GST-Filling-System/main/login.png" width="200" height="400">
+<img src="https://raw.githubusercontent.com/rjmngr929/GST-Filling-System/main/home.png" width="200" height="400">
+<img src="https://raw.githubusercontent.com/rjmngr929/GST-Filling-System/main/drawer.png" width="200" height="400">
+<img src="https://raw.githubusercontent.com/rjmngr929/GST-Filling-System/main/faq.png" width="200" height="400">
+<img src="https://raw.githubusercontent.com/rjmngr929/GST-Filling-System/main/request_status.png" width="200" height="400">
+<img src="https://raw.githubusercontent.com/rjmngr929/GST-Filling-System/main/status_detail.png" width="200" height="400">
+          
+</div>
 
 
 
